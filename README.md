@@ -39,13 +39,19 @@ git clone https://github.com/Ashrith5/Campus-Assist.git
 cd college-assistant-chatbot
 
 ### 2. Install Virtual Environment
+```bash
 python -m venv venv
 venv\Scripts\activate
 
 ### 3. Install Dependencies
+```bash
 pip install -r requirements.txt
+
 ### 4. Run the Application
+```bash
 python app.py
+
 ### 5. Open in Browser
+
 Open a web browser and go to http://127.0.0.1:5000/ to interact with the College Assistant Chatbot.
 
