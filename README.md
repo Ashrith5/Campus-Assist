@@ -39,6 +39,7 @@ git clone https://github.com/Ashrith5/Campus-Assist.git
 cd college-assistant-chatbot
 
 ### 2. Install Virtual Environment
+
 ```bash
 python -m venv venv
 venv\Scripts\activate
@@ -48,8 +49,12 @@ venv\Scripts\activate
 pip install -r requirements.txt
 
 ### 4. Run the Application
+
+After installing the dependencies, you can run the Flask application with:
+
 ```bash
 python app.py
+
 
 ### 5. Open in Browser
 
