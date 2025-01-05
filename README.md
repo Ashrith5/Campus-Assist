@@ -56,21 +56,5 @@ python app.py
 ### 5. Open in Browser
 
 Open a web browser and go to http://127.0.0.1:5000/ to interact with the College Assistant Chatbot.
-| Command | Description |
-|---------|-------------|
-| ```
-git clone https://github.com/Ashrith5/Campus-Assist.git
-cd Campus-Assist
-``` | Clone the repository and navigate to the project directory |
-| ```
-python -m venv venv
-source venv/bin/activate  # For Unix or MacOS
-venv\Scripts\activate     # For Windows
-``` | Create and activate a virtual environment |
-| ```
-pip install -r requirements.txt
-``` | Install the required dependencies |
-| ```
-python app.py
-``` | Run the Flask application |
+
 
