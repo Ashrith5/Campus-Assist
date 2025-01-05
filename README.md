@@ -33,26 +33,23 @@ Follow these steps to set up the College Assistant Chatbot locally:
 ### 1. Clone the Repository
 
 Clone the repository to your local machine using the following command:
-
-```bash
 git clone https://github.com/Ashrith5/Campus-Assist.git
 cd college-assistant-chatbot
 
+
+
 ### 2. Install Virtual Environment
 
-```bash
 python -m venv venv
 venv\Scripts\activate
 
 ### 3. Install Dependencies
-```bash
 pip install -r requirements.txt
 
 ### 4. Run the Application
 
 After installing the dependencies, you can run the Flask application with:
 
-```bash
 python app.py
 
 
